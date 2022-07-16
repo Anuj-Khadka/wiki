@@ -1,0 +1,14 @@
+{% extends 'encyclopedia/layout.html'%}
+
+{% block title %}
+    wiki
+{% endblock %}
+
+{% block body %}
+    <h1>The page '{{title}}' does not exist</h1>
+    <p>
+        No search result found. You can create one by clicking the "Add" button.
+    </p>
+    <a href="{% url 'NewPage' %}" >Add</a>    
+{% endblock %}
+
