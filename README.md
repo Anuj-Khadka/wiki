@@ -40,7 +40,7 @@ With an easy-to-use interface and Markdown-to-HTML conversion, this Wiki aims to
 
 ## How to Run
 ### Live Demo
-Live demo at <a href="https://hamrokinmel.netlify.app" target="_blank">Kinmel</a>
+<!-- Live demo at <a href="https://hamrokinmel.netlify.app" target="_blank">Kinmel</a>
 
 ### Run Locally
 - Clone the reposiory in your local machine.
@@ -52,7 +52,7 @@ git clone https://github.com/Anuj-Khadka/kinmel.git
 ```bash
 npm run dev
 ```
-- Open the port in your browser `localhost:5173/` <br/>
+- Open the port in your browser `localhost:5173/` <br/> -->
 
 
 ## Features
