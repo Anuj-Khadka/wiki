@@ -40,9 +40,12 @@ With an easy-to-use interface and Markdown-to-HTML conversion, this Wiki aims to
 
 ## How to Run
 ### Live Demo
-<!-- Live demo at <a href="https://hamrokinmel.netlify.app" target="_blank">Kinmel</a>
+<!-- Live demo at <a href="https://hamrokinmel.netlify.app" target="_blank">Kinmel</a> 
+-->
 
 ### Run Locally
+
+<!--
 - Clone the reposiory in your local machine.
 ```bash
 git clone https://github.com/Anuj-Khadka/kinmel.git
@@ -67,8 +70,8 @@ npm run dev
 
 ## Other Details
  <p align="left">
-    <img src="https://img.shields.io/github/contributors/anuj-khadka/kinmel?style=for-the-badge" />
-    <img src="https://img.shields.io/github/commit-activity/t/Anuj-Khadka/kinmel?style=for-the-badge" />
-    <img src="https://img.shields.io/github/forks/anuj-khadka/kinmel?style=for-the-badge" />
+    <img src="https://img.shields.io/github/contributors/anuj-khadka/wiki?style=for-the-badge" />
+    <img src="https://img.shields.io/github/commit-activity/t/Anuj-Khadka/wiki?style=for-the-badge" />
+    <img src="https://img.shields.io/github/forks/anuj-khadka/wiki?style=for-the-badge" />
 </p>
 
