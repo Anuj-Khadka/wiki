@@ -1,5 +1,5 @@
 # Wiki Encyclopedia
-> A dynamic Wiki Encyclopedia web application built with React JS, Python (Flask), and Markdown conversion to HTML.
+> A dynamic Wiki Encyclopedia web application built with Vanilla JS, Python (Django), and Markdown conversion to HTML.
 
 
 <!-- ![wiki gif](documentations/vids/wiki-gif.gif) -->
